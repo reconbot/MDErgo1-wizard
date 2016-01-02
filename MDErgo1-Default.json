@@ -871,8 +871,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SEMICOLON",
-                    "label": ";"
+                    "key": "QUOTE",
+                    "label": "'"
                 },
                 "2": {
                     "key": "P+",
@@ -888,8 +888,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "QUOTE",
-                    "label": "'"
+                    "key": "SEMICOLON",
+                    "label": ";"
                 },
                 "1": {
                     "key": "CONS:CALCULATOR",
@@ -1071,8 +1071,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 },
                 "1": {
                     "key": "CONS:MUTE",
@@ -1088,8 +1088,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 },
                 "1": {
                     "key": "CONS:PAUSEPLAY",
