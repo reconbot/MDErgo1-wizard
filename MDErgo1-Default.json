@@ -117,8 +117,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUALS",
-                    "label": "="
+                    "key": "BACKTICK",
+                    "label": "`"
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -212,8 +212,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "TAB",
+                    "label": "TAB"
                 }
             },
             "w": 6,
@@ -240,6 +240,10 @@
                 "0": {
                     "key": "F",
                     "label": "F"
+                },
+                "2": {
+                    "key": "E",
+                    "label": "E"
                 }
             },
             "w": 4,
@@ -253,6 +257,10 @@
                 "0": {
                     "key": "D",
                     "label": "D"
+                },
+                "2": {
+                    "key": "V",
+                    "label": "V"
                 }
             },
             "w": 4,
@@ -266,6 +274,10 @@
                 "0": {
                     "key": "S",
                     "label": "S"
+                },
+                "2": {
+                    "key": "O",
+                    "label": "O"
                 }
             },
             "w": 4,
@@ -279,6 +291,10 @@
                 "0": {
                     "key": "A",
                     "label": "A"
+                },
+                "2": {
+                    "key": "L",
+                    "label": "L"
                 }
             },
             "w": 4,
@@ -290,8 +306,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "TAB",
-                    "label": "TAB"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             },
             "w": 6,
@@ -329,8 +345,16 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "#:'('",
+                    "label": "("
+                },
+                "1": {
+                    "key": "LBRACE",
+                    "label": "["
+                },
+                "2": {
+                    "key": "#:'{'",
+                    "label": "{"
                 }
             },
             "w": 4,
@@ -433,8 +457,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             },
             "w": 4,
@@ -459,8 +483,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             },
             "w": 4,
@@ -472,8 +496,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "EQUAL",
+                    "label": "="
                 }
             },
             "w": 4,
@@ -485,8 +509,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             },
             "w": 4,
@@ -498,8 +522,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             },
             "w": 4,
@@ -511,8 +535,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             },
             "w": 4,
@@ -524,8 +548,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             },
             "w": 4,
@@ -537,8 +561,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "#:')'",
+                    "label": ")"
                 },
                 "1": {
                     "key": "F12",
@@ -766,12 +790,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "EQUAL",
+                    "label": "="
                 },
                 "1": {
-                    "key": "CONS:EJECT",
-                    "label": "EJECT"
+                    "key": "SYS:SLEEP",
+                    "label": "SLEEP"
                 }
             },
             "w": 6,
@@ -868,8 +892,8 @@
                     "label": "'"
                 },
                 "1": {
-                    "key": "SYS:SLEEP",
-                    "label": "SLEEP"
+                    "key": "CONS:CALCULATOR",
+                    "label": "CALC"
                 }
             },
             "w": 6,
@@ -915,8 +939,16 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "#:')'",
+                    "label": ")"
+                },
+                "1": {
+                    "key": "RBRACE",
+                    "label": "]"
+                },
+                "2": {
+                    "key": "#:'}'",
+                    "label": "}"
                 }
             },
             "w": 4,
@@ -1056,8 +1088,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 },
                 "1": {
                     "key": "CONS:PAUSEPLAY",
