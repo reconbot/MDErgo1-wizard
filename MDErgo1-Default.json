@@ -1071,8 +1071,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 },
                 "1": {
                     "key": "CONS:MUTE",
